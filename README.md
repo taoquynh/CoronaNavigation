@@ -2,4 +2,4 @@
 
 <img src="corona.gif"
 alt="CoronaNavigation"
-style="float: left; margin-right: 10px;" />
+style="width = 50px" />
