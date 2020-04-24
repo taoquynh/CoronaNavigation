@@ -1,3 +1,3 @@
 # Thực hành điều hướng màn hình
 
-<img src="corona.gif" width="200">
+<img src="corona.gif" width="400">
